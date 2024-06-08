@@ -7,5 +7,5 @@ internet based programing school project
 
 ## Youtube video link : https://youtu.be/2NuCsP6Xu8E
 
-![Screenshot]()
+![Screenshot](IBP-Project-Cover.jpg)
 
