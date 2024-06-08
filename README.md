@@ -7,4 +7,3 @@ internet based programing school project
 
 ## Youtube video link : https://youtu.be/2NuCsP6Xu8E
 
-![internet based programing school project]('Internet Based Programing Project-Cover.jpg')
