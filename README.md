@@ -1,12 +1,20 @@
 # 2024_IBP_Project
 internet based programing school project
+
+<br>
+
 ## Name: JOPH EXAUCE FOUSCHARD YAMBA
+
+<br>
 
 ## Backend link : https://github.com/JefYamba/ibp-project-backend.git
 ## Frontend link : https://github.com/JefYamba/ibp-project-angular.git
+
 <br>
 
 ## Youtube video link : https://youtu.be/2NuCsP6Xu8E
+
+<br>
 <br>
 
 ![Screenshot](IBP-Project-Cover.jpg)
