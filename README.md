@@ -4,10 +4,10 @@ internet based programing school project
 
 ## Backend link : https://github.com/JefYamba/ibp-project-backend.git
 ## Frontend link : https://github.com/JefYamba/ibp-project-angular.git
-<space>
+<br>
 
 ## Youtube video link : https://youtu.be/2NuCsP6Xu8E
-<space>
+<br>
 
 ![Screenshot](IBP-Project-Cover.jpg)
 
