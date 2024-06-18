@@ -16,4 +16,5 @@ internet based programing school project
 <br>
 
 ![Screenshot](IBP-Project-Cover.jpg)
+![![Screenshot](IBP-Project-Cover.jpg)](IBP-Project-Cover.jpg)
 
